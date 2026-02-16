@@ -22,5 +22,4 @@ value =input("enter your name")
 print(value)
 val=int(input("enter your age"))
 print(val)
-v=float(input("enter your marks"))
-print(v)
+
